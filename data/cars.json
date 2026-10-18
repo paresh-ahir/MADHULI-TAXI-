@@ -1,0 +1,92 @@
+[
+  {
+    "id": "swift",
+    "name": "Maruti Swift",
+    "category": "Economy",
+    "body": "Hatchback",
+    "seats": "3+1",
+    "luggage": "2 small bags",
+    "description": "A compact AC hatchback for two or three people, Somnath darshan, and short hops to Veraval.",
+    "image": "/images/car-swift.jpg",
+    "tags": [
+      "Temple darshan",
+      "City rides"
+    ],
+    "active": true
+  },
+  {
+    "id": "dzire",
+    "name": "Maruti Dzire",
+    "category": "Business",
+    "body": "Sedan",
+    "seats": "3+1",
+    "luggage": "3 medium bags",
+    "description": "A quiet sedan for couples, business drops, and comfortable one-way runs along the coast.",
+    "image": "/images/car-dzire.jpg",
+    "tags": [
+      "Sedan",
+      "Outstation"
+    ],
+    "active": true
+  },
+  {
+    "id": "ertiga",
+    "name": "Maruti Ertiga",
+    "category": "Family",
+    "body": "MPV",
+    "seats": "6+1",
+    "luggage": "3 large bags",
+    "description": "The family cab most Somnath groups choose. Six passenger seats, AC, and room for puja bags.",
+    "image": "/images/car-ertiga.jpg",
+    "tags": [
+      "Family tours",
+      "Weekend trips"
+    ],
+    "active": true
+  },
+  {
+    "id": "innova",
+    "name": "Toyota Innova Crysta",
+    "category": "Comfort",
+    "body": "Premium MPV",
+    "seats": "6+1",
+    "luggage": "4 large bags",
+    "description": "The long-distance cab for Dwarka, Ahmedabad, and Kutch. Softer seats and a calmer highway ride.",
+    "image": "/images/car-innova.jpg",
+    "tags": [
+      "Long distance",
+      "Pilgrimage"
+    ],
+    "active": true
+  },
+  {
+    "id": "tempo",
+    "name": "Force Traveller",
+    "category": "Group",
+    "body": "Tempo Traveller",
+    "seats": "12 / 17",
+    "luggage": "Group luggage",
+    "description": "A tempo traveller for wedding parties, satsang groups, and school or society trips from Somnath.",
+    "image": "/images/car-tempo.jpg",
+    "tags": [
+      "Groups",
+      "Pilgrimage"
+    ],
+    "active": true
+  },
+  {
+    "id": "urbania",
+    "name": "Tata Urbania",
+    "category": "Premium group",
+    "body": "Minibus",
+    "seats": "13 / 17",
+    "luggage": "Group luggage",
+    "description": "A pushback-seat minibus when the group wants a quieter, more finished ride than a standard tempo.",
+    "image": "/images/car-urbania.jpg",
+    "tags": [
+      "Luxury group",
+      "Outstation"
+    ],
+    "active": true
+  }
+]
