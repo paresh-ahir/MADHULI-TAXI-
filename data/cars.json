@@ -63,10 +63,10 @@
     "id": "tempo",
     "name": "Force Traveller",
     "category": "Group",
-    "body": "Tempo Traveller",
+    "body": "Traveller",
     "seats": "12 / 17",
     "luggage": "Group luggage",
-    "description": "A tempo traveller for wedding parties, satsang groups, and school or society trips from Somnath.",
+    "description": "A group traveller for wedding parties, satsang groups, and school or society trips from Somnath.",
     "image": "/images/car-tempo.jpg",
     "tags": [
       "Groups",
@@ -81,7 +81,7 @@
     "body": "Minibus",
     "seats": "13 / 17",
     "luggage": "Group luggage",
-    "description": "A pushback-seat minibus when the group wants a quieter, more finished ride than a standard tempo.",
+    "description": "A pushback-seat minibus when the group wants a quieter, more finished ride than a standard traveller.",
     "image": "/images/car-urbania.jpg",
     "tags": [
       "Luxury group",

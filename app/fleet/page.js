@@ -5,7 +5,7 @@ export const dynamic = "force-dynamic";
 
 export const metadata = {
   title: "Somnath taxi fleet",
-  description: "Swift, Dzire, Ertiga, Innova Crysta, tempo traveller and Urbania from Madhuli Taxi in Somnath. AC cabs for darshan and outstation trips.",
+  description: "Somnath taxi fleet from Madhuli: Swift, Dzire, Ertiga, Innova Crysta, Force Traveller and Urbania. AC cabs for darshan and outstation trips.",
   alternates: { canonical: "/fleet" },
 };
 

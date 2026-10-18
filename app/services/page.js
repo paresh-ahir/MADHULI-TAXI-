@@ -3,7 +3,7 @@ import { site } from "@/lib/site";
 
 export const metadata = {
   title: "Somnath cab services",
-  description: "Local Somnath taxi, outstation one way, round trips, airport pickup, pilgrimage cabs and group tempos. Madhuli Taxi, 8140204231.",
+  description: "Somnath taxi services: local darshan, outstation one way, round trips, airport pickup, pilgrimage cabs and group travellers. Madhuli Taxi, 8140204231.",
   alternates: { canonical: "/services" },
 };
 

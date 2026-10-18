@@ -13,17 +13,17 @@ const serif = Fraunces({ subsets: ["latin"], weight: ["500", "600", "700"], styl
 export const metadata = {
   metadataBase: new URL(site.url),
   title: {
-    default: "Somnath Taxi Service | Madhuli Taxi",
+    default: "Somnath Taxi | Madhuli Taxi Services",
     template: "%s | Madhuli Taxi",
   },
-  description: "Madhuli Taxi Services in Somnath. AC cabs for Somnath darshan, Diu, Gir, Dwarka, Rajkot and Ahmedabad. Call or WhatsApp 8140204231. Open 24/7.",
+  description: "Somnath taxi from Madhuli Taxi Services. AC cabs for Somnath darshan, Veraval, Diu, Gir, Dwarka, Rajkot and Ahmedabad. Call or WhatsApp 8140204231. Open 24/7.",
   keywords: ["Somnath taxi", "Somnath cab", "taxi in Somnath", "Somnath to Dwarka taxi", "Somnath to Diu taxi", "Veraval taxi", "Madhuli Taxi", "Gir Somnath cab"],
   openGraph: {
     type: "website",
     locale: "en_IN",
     siteName: "Madhuli Taxi",
-    title: "Somnath Taxi Service | Madhuli Taxi",
-    description: "AC taxi and tempo service from Somnath, Gujarat. Book on a call or WhatsApp at 8140204231.",
+    title: "Somnath Taxi | Madhuli Taxi Services",
+    description: "Somnath taxi from Madhuli Taxi Services. AC cabs for darshan, Diu, Gir and Dwarka. Call or WhatsApp 8140204231.",
     images: [{ url: "/images/hero-somnath.jpg", width: 1200, height: 675, alt: "Somnath temple coast, home of Madhuli Taxi" }],
   },
   twitter: { card: "summary_large_image", images: ["/images/hero-somnath.jpg"] },

@@ -17,12 +17,12 @@ export default async function HomePage() {
         <div className="wrap hero-grid">
           <div>
             <div className="hero-copy">
-              <span className="eyebrow">Madhuli Taxi · Somnath</span>
-              <h1>Taxi in Somnath. <em>The road, handled.</em></h1>
-              <p className="lede">AC cabs from the temple town for darshan, Diu, Gir, Dwarka and the longer Gujarat runs. Send the route and the Somnath desk confirms the car on WhatsApp.</p>
+              <span className="eyebrow">Somnath taxi · Madhuli</span>
+              <h1>Somnath taxi. <em>Cabs from the temple.</em></h1>
+              <p className="lede">Madhuli Taxi Services is a Somnath taxi desk for darshan, Veraval station, Diu, Gir and Dwarka. Send the route and we confirm the car on WhatsApp.</p>
               <div className="pills">
                 <span>Verified drivers</span>
-                <span>AC cars and tempos</span>
+                <span>AC cabs</span>
                 <span>Open 24/7</span>
                 <span>Somnath, Gujarat</span>
               </div>
